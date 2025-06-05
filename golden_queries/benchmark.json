@@ -1,0 +1,11 @@
+
+{
+  "Q1": {
+    "question": "List employees with salary greater than 50000",
+    "sql": "SELECT * FROM employees WHERE salary > 50000"
+  },
+  "Q2": {
+    "question": "List names of employees in HR",
+    "sql": "SELECT employee_name FROM employees WHERE department = 'HR'"
+  }
+}
