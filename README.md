@@ -20,7 +20,7 @@ Given a natural language question:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/puspanjalis/llm_sql_accuracy_evaluator.git
+git clone https://github.com/puspanjalis/LLM-SQL-Accuracy-Evaluator.git
 cd llm_sql_accuracy_evaluator
 pip install -r requirements.txt      
 ```
