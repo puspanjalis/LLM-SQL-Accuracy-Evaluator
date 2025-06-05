@@ -16,14 +16,15 @@ Given a natural language question:
 - Row-wise and schema-wise result comparison
 - Optional "LLM-as-a-Judge" evaluator using OpenAI or other APIs
 
+
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/puspanjalis/llm_sql_accuracy_evaluator.git
 cd llm_sql_accuracy_evaluator
-pip install -r requirements.txt
+pip install -r requirements.txt      
+```
 
-## 🤝 **Contributions**
-
+## 🤝 Contributions
 Pull requests welcome! Please open an issue to discuss improvements or bugs. Drop a message [here](https://www.linkedin.com/in/puspanjalisarma/)
-
+  
